@@ -3,3 +3,35 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+header{
+    height: 100px;
+    padding: 0 20px;
+    color: rgb(0, 0, 0);
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+footer{
+    height: 100px;
+    padding: 0 20px;
+    color: rgb(0, 0, 0);
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+main{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgb(210, 70, 93), blue);
+}
