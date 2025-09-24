@@ -8,22 +8,22 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(pink, blue);
+    background: linear-gradient(hsla(330, 95%, 42%, 0.725), hsla(225, 82%, 49%, 0.686));
 }
 header{
     height: 100px;
     padding: 0 20px;
     color: rgb(0, 0, 0);
-    background-color: pink;
+    background-color: hsla(330, 74%, 51%, 0.027);
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    gap: 75px;
 }
 footer{
     height: 100px;
     padding: 0 20px;
     color: rgb(0, 0, 0);
-    background-color: blue;
+    background-color: hsla(225, 93%, 47%, 0.055);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -36,7 +36,7 @@ main{
 }
 .background-logo {
     position: absolute;
-    width: 100%;
+    width: 60%;
     max-height: 100%;
     margin: auto;
     top: 0;
@@ -48,10 +48,10 @@ main{
 .text{
     position: absolute;
     color: aliceblue;
-    font-size: 2.5rem;
+    font-size: 4.5rem;
     width: 240px;
     transform: translateX(-100%);
-    text-align: start;
+    text-align: end;
     filter: drop-shadow(0 0 20px black);
 }
 header{
@@ -59,13 +59,15 @@ header{
     display: flex;
     align-items: center;
     padding-left: 75px;
-    gap: 24;
+    gap: 24px;
 }
 header span{
     font-weight: 600px;
+    display: flex;
 }
 .jesus{
     height: 85vh;
+    filter: drop-shadow(0 0 20px black);
 }
 footer {
     height: 100px;
@@ -100,5 +102,13 @@ footer div {
 
     footer {
         padding: 0px 25px;
+    }
+    .text {
+        position: absolute;
+        color: aliceblue;
+        font-size: 2.5rem;
+        width: 240px;
+        transform: translateX(-100%);
+        filter: drop-shadow(0 0 20px black);
     }
 }
