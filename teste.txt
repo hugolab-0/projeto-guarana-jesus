@@ -1,1 +1,20 @@
-texto
+Perguntas
+
+1)É onde fica guardado todas as versões do projeto, permitindo controle de historico 
+2)Terminal que permite usar comando Git.
+3)Adiciona os arquivos que vão receber o commit.
+4)Para salvar todos os arquivos alterados.
+5)Salva mudanças com uma mensagem explicando oque mudou.
+6)O comando "git push" é usado para subir seu tralho no git ou fazer atualizações nele.
+7)Os commit são necesarios para que voce ou alguem que esteja lendo seu codigo entenda o que foi alterado
+8)As tags HTML são usadas para marcar e organizar o conteudo de uma página web. Elas definem a estrutura do documento, como titulos, páragrafos, imagens, links, e outros elementos.
+9)Atributos em uma tag HTML são informações adicionais dentro as tags que definem propriedade ou comportamento dos elementos HTML, como src,href,id,etc.
+10)Emmet é uma ferramenta que permite escrever HTML e CSS de forma mais facil e rapida usando abreviações que são automanticamente expanddidas para códigos completos
+11)Serve para que a largura e a altura de um elemento sejam consideradas a soma do conteúdo, do preenchimento (padding) e da borda (border).
+12)Porque elas tornam o codigo mais organizado, melhorando a acessibilidade.
+13)São regras que aplicam estilos diferentes dependendo do tamanho daa tela do dispositivo.
+14)Ele permiote hospedar sites diretamente nele de um repositório Git.
+15)○ Flexbox é um módulo de layout do CSS que facilita oalinhamento, distribuição e organização de elementos dentrode um continer, tornando o design responsivo mais fácil.
+16)Eles são muito usados para o alinhamento de itens no seu prjeto.
+17)Defina quanto u intem pode crescer em relação ao outro.
+18)Define a direção dos item em linha ou coluno.
